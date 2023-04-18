@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(252, 143, 0);
+    font-family: Arial;
+    border: 10000px;
+    padding: 200px;
+    color: white;
+    
+    
+}
+
+header{
+    padding:5px;
+    margin-top: 30px;
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    
+    
+}
+
+a{margin-right:10px}
+
+img{
+    margin-left: 30px;
+    margin-right: 10px;
+    padding: 3px;
+    border: 10px;
+    border-radius: 300px;
+    width: 500px;
+    height: fit-content;
+
+}
+h1{
+    margin-left: 10px;
+}
+
+
+
+h4{
+    margin-left: 6px;
+}
+
+body{
+    margin-left: center;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    font-size: x-large;
+    text-align: center;
+    border: 40px;
+    border-right: 5px;
+    border: 1000px;
+    
+}
+div{
+display: flex;
+text-align: center;
+border: 5px solid white;
+padding: 20px;
+}
+
+p{
+    text-align: 300px;
+    margin: auto;
+    margin-right: 1000px;
+    font-size: 40px;
+    
+}
+
+h1{
+    margin-left: 100px;
+    font-size: larger;
+}
+
+.cor-título1{
+    font-size: 40px;
+    padding: 3px;
+    margin-left: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+    
+}
+
+.cor-título2{
+    font-size: 40px;
+    padding: 3px;
+    margin-left: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+
+
+}
+
+.cor-título3{
+   
+    font-size: 40px;
+    padding: 3px;
+    margin-left: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+
+
+}
